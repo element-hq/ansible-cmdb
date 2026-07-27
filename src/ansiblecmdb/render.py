@@ -1,5 +1,5 @@
 import os
-import imp
+import importlib
 from mako.template import Template
 from mako.lookup import TemplateLookup
 
